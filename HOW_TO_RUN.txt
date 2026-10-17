@@ -1,0 +1,22 @@
+AI COURSE & CAREER ADVISOR - HOW TO RUN
+=======================================
+
+ONE-TIME: Install Python 3.11 from python.org
+          (on the first install screen, TICK "Add python.exe to PATH")
+
+EVERY TIME: Double-click START.bat
+          - First time it installs everything (about 5 minutes).
+          - Your browser opens the app at http://localhost:8501
+          - Keep the black window open. Close it to stop the app.
+
+DEMO: Sidebar: type your name
+      Tab 1: tick "Use the sample CV", pick a career, click "Analyse my profile"
+      Tab 2: readiness % and skill gaps
+      Tab 3: recommended free courses
+      Tab 4: weekly study plan -> click "Save this plan"
+      Tab 5: tick courses as done -> click "Reassess & update my plan"
+
+OPTIONAL AI (Groq, free):
+      1. Get a key at console.groq.com -> API Keys -> Create API Key
+      2. In the .streamlit folder, copy secrets.toml.example and rename the copy to secrets.toml
+      3. Open it in Notepad, paste your key, save, and restart START.bat

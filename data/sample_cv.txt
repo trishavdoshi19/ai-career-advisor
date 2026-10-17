@@ -1,0 +1,19 @@
+Riya Sharma
+riya.sharma@example.com | Mumbai
+
+Summary
+Final-year B.E. Computer Science student interested in business analytics.
+
+Education
+B.E. Computer Science, XYZ Institute of Technology, 2021-2025, CGPA 8.4
+HSC, ABC Junior College, 2021
+
+Skills
+Python, Pandas, MySQL, MS Excel (pivot tables, VLOOKUP), Matplotlib, Git, GitHub, Communication
+
+Projects
+Sales Dashboard - analysed 2 years of retail sales in Excel and Python, built charts with Matplotlib
+Student Result Portal - Flask web app with MySQL backend
+
+Experience
+Data Analyst Intern, ABC Retail Pvt Ltd (Jun 2024 - Aug 2024): cleaned sales data, presented weekly reports to stakeholders

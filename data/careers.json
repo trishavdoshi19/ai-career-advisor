@@ -1,0 +1,52 @@
+{
+  "Business Analyst": {
+    "description": "Translates business needs into requirements, analyses data and processes, and builds reports and dashboards for decision makers.",
+    "core": ["excel", "sql", "requirements gathering", "business process modelling", "stakeholder management", "communication", "data visualization", "power bi"],
+    "nice": ["tableau", "agile", "jira", "statistics", "python", "storytelling"]
+  },
+  "Data Analyst": {
+    "description": "Cleans, analyses and visualises data to answer business questions and track KPIs.",
+    "core": ["excel", "sql", "python", "pandas", "statistics", "data visualization", "data cleaning", "power bi"],
+    "nice": ["tableau", "storytelling", "a/b testing", "communication", "git"]
+  },
+  "Data Scientist": {
+    "description": "Builds statistical and machine learning models to predict outcomes and generate insights.",
+    "core": ["python", "sql", "statistics", "probability", "machine learning", "pandas", "numpy", "data visualization"],
+    "nice": ["deep learning", "nlp", "a/b testing", "git", "cloud", "communication"]
+  },
+  "Machine Learning Engineer": {
+    "description": "Builds, deploys and maintains machine learning models in production systems.",
+    "core": ["python", "machine learning", "deep learning", "mlops", "docker", "git", "sql", "apis"],
+    "nice": ["cloud", "kubernetes", "ci/cd", "llms", "linux", "dsa"]
+  },
+  "Data Engineer": {
+    "description": "Designs and builds data pipelines, warehouses and infrastructure that move and store data reliably.",
+    "core": ["python", "sql", "etl", "data warehousing", "spark", "airflow", "cloud", "git"],
+    "nice": ["docker", "linux", "dbms", "kubernetes", "ci/cd"]
+  },
+  "Software Engineer": {
+    "description": "Designs, writes and maintains software applications and services.",
+    "core": ["dsa", "git", "python", "javascript", "apis", "dbms", "sql", "system design"],
+    "nice": ["docker", "linux", "react", "html/css", "ci/cd", "cloud", "java"]
+  },
+  "Product Manager": {
+    "description": "Owns a product's direction, prioritises features and coordinates engineering, design and business teams.",
+    "core": ["product sense", "communication", "stakeholder management", "requirements gathering", "agile", "a/b testing", "sql"],
+    "nice": ["data visualization", "jira", "storytelling", "excel"]
+  },
+  "AI / GenAI Engineer": {
+    "description": "Builds applications on large language models using prompting, RAG and agents.",
+    "core": ["python", "llms", "nlp", "apis", "git", "machine learning"],
+    "nice": ["docker", "cloud", "deep learning", "sql"]
+  },
+  "Risk / Financial Analyst": {
+    "description": "Analyses financial data and models risk to support investment and lending decisions.",
+    "core": ["excel", "statistics", "financial analysis", "sql", "python"],
+    "nice": ["power bi", "probability", "machine learning", "communication"]
+  },
+  "Cloud / DevOps Engineer": {
+    "description": "Automates infrastructure, deployments and monitoring on cloud platforms.",
+    "core": ["linux", "cloud", "docker", "kubernetes", "ci/cd", "git"],
+    "nice": ["python", "system design", "apis"]
+  }
+}
